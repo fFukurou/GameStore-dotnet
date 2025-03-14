@@ -1,0 +1,6 @@
+GET http://localhost:5208
+
+
+
+
+GET http://localhost:5208/games
